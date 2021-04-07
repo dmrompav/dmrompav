@@ -17,7 +17,7 @@ latest youtube video
 
 
 ## Contact me
-[![phone](https://img.shields.io/badge/-\+79961078823-222222?style=for-the-badge)](tel:+79961078823)
+[![phone](https://img.shields.io/badge/-\+79961078823-222222?style=for-the-badge)](tel:79961078823)
 [![telegram](https://img.shields.io/badge/-telegram-222222?style=for-the-badge&logo=telegram)](https://t.me/dmrompav)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-222222?style=for-the-badge&logo=whatsapp)](https://wa.me/+79961078823)
 [![gmail](https://img.shields.io/badge/-gmail-222222?style=for-the-badge&logo=gmail)](mailto:dm.rom.pav@gmail.com)
