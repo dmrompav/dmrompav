@@ -136,7 +136,7 @@
 </style>
 
 <div class="preview">
-	<div class="card">
+	<div class="card" style="width: 300px; height: 400px; background-color: #000000;" >
 		<div class="card__glass"></div>
 		<div class="card__panel card__panel_icos">
 			<a href="https://t.me/dmrompav" class="card__link">
