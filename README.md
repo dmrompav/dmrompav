@@ -11,32 +11,76 @@ I'm an experienced frontend developer and an amateur enthusiast in backend devel
 Some tool, frameworks and libs that I know well or used it a few times)
 
 ### Frontend:
+<span>
 <img width='48px' height='48px' src='./imgs/html.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/css.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/pug.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/sass.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/postcss.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/js.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/typescript.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/vue.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/tailwind.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/lodash.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/deepdash.png' />
+</span>
 
 ### Backend:
+<span>
 <img width='48px' height='48px' src='./imgs/node.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/nest.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/postgresql.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/mongo.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/postman.svg' />
+</span>
 
 ### Others:
+<span>
 <img width='48px' height='48px' src='./imgs/git.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/github.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/ubuntu.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/docker.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/dbeaver.svg' />
+</span>
+<span>
 <img width='48px' height='48px' src='./imgs/electron.svg' />
+</span>
 
 <hr />
 
